@@ -46,8 +46,8 @@
 		"url": "git+https://github.com/itrocks-ts/domain-components.git"
 	},
 	"scripts": {
-		"build": "tsc -p tsconfig.json"
+		"build": "tsc"
 	},
 	"types": "./cjs/domain-components.d.ts",
-	"version": "0.0.1"
+	"version": "0.0.2"
 }
