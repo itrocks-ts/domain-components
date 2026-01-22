@@ -28,15 +28,19 @@
 		"blocks",
 		"business",
 		"common",
+		"component",
 		"components",
 		"data",
 		"domain",
 		"entity",
+		"hasname",
 		"it.rocks",
+		"mixin",
 		"mixins",
 		"name",
 		"properties",
 		"property",
+		"reusable",
 		"traits"
 	],
 	"license": "ISC",
@@ -49,5 +53,5 @@
 		"build": "tsc"
 	},
 	"types": "./cjs/domain-components.d.ts",
-	"version": "0.0.3"
+	"version": "0.1.0"
 }

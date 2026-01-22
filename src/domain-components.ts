@@ -1,2 +1,2 @@
-export * from './active'
-export * from './has-name'
+export { Active }  from './active'
+export { HasName } from './has-name'
